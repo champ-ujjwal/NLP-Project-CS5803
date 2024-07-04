@@ -1,5 +1,4 @@
-# Leveraging BART on medical conversation summarization (3M MModal version)
-This repo implements algorithm in the paper: [Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations](https://aclanthology.org/2021.findings-emnlp.313/)
+# NLP project 
 
 
 ## Environment Setup
